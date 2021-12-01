@@ -31,3 +31,20 @@
 ## Whitepaper
 
 * [Disaster Recovery White Paper](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
+
+
+## Best practices
+
+* Triage and replicate
+* Immutable architecture
+* Rely on infrastructure as code
+* Use serverless wherever you can
+* Use Route53 for automatic failover
+* Rely on managed services for faster failover & replication
+
+## Call to action
+
+* Create a snapshot of your current infrastructure
+* Figure out what are critical workloads
+* Create a failover play-book
+* Get in touch with an SA if you need help!
