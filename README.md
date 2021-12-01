@@ -27,3 +27,7 @@
 
 * [Amazon Aurora Global Database](https://aws.amazon.com/rds/aurora/global-database/)
 * [Amazon DynamoDB Global Tables](https://aws.amazon.com/dynamodb/global-tables/)
+
+## Whitepaper
+
+* [Disaster Recovery White Paper](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
