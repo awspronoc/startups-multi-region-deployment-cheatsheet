@@ -33,6 +33,11 @@
 * [Disaster Recovery White Paper](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
 
 
+## re:Invent 2021 multi-Region announcements
+
+* [EFS Replication](https://aws.amazon.com/efs/features/)
+* [AWS Backup support for S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/)
+
 ## Best practices
 
 * Triage and replicate
