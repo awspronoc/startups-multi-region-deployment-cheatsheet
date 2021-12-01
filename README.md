@@ -3,18 +3,18 @@
 
 ## AWS Global Infrastructure
 
-https://aws.amazon.com/about-aws/global-infrastructure/regions_az/?p=ngi&loc=2
+[AWS Global infrastructure map](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/?p=ngi&loc=2)
 
 ## Multi Region Deployment examples
 
-* [Serverless](https://aws.amazon.com/solutions/implementations/multi-region-application-architecture/)
-* [Multi-region programtic deployment](https://aws.amazon.com/solutions/implementations/multi-region-infrastructure-deployment/?did=sl_card&trk=sl_card)
+* [Serverless multi-Region deployment](https://aws.amazon.com/solutions/implementations/multi-region-application-architecture/)
+* [Multi-region programmatic deployment](https://aws.amazon.com/solutions/implementations/multi-region-infrastructure-deployment/?did=sl_card&trk=sl_card)
 * [Asynchronous Object Replication Solution](https://aws.amazon.com/solutions/implementations/multi-region-asynchronous-object-replication-solution/?did=sl_card&trk=sl_card)
 
 
 ## How to choose the right tool for the right job (AWS Databases)
 
-https://www.youtube.com/watch?v=-pb-DkD6cWg
+* [Re:Invent 2018: The Right Tool for the Right Job by Shawn Bice](https://www.youtube.com/watch?v=-pb-DkD6cWg)
 
 ## Infrastructure-as-Code resources
 
